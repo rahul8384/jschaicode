@@ -1,0 +1,2 @@
+# jschaicode
+for learning javaScript
